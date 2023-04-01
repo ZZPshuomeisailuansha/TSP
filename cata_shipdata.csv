@@ -1,4 +1,4 @@
-Manufacturer,Model,Beam (m),Draft (m),Rigging,Displacement (kg),Sail Area (m²),Hull Materials,Sleeping Capacity,Headroom (m),Fuel Capacity (L),Water Capacity (L),Standard Engine Power (hp),LOA (m),Waterline Length (m),Fuel Type,Holding Tank Capacity (L),Keel Type
+Make,Variant,Beam (m),Draft (m),Rigging,Displacement (kg),Sail Area (m²),Hull Materials,Sleeping Capacity,Headroom (m),Fuel Capacity (L),Water Capacity (L),Standard Engine Power (hp),LOA (m),Waterline Length (m),Fuel Type,Holding Tank Capacity (L),Keel Type
 Lagoon,380,6.53,1.15,Fractional sloop,6970,77.0,Polyester,8.0,1.95,200,300,2x29,11.55,10.89,Diesel,80,Fixed keel
 Fountaine Pajot,lavezzi40,6.72,1.1,7/8 fractional rig,7200,81.0,Polyester,8.0,1.95,280,600,2x30,11.9,11.5,Diesel,80,Fixed keel
 Leopard,40,6.23,1.22,Staysail ketch,10300,99.0,Fiberglass,6.0,1.96,360,780,2x30,12.22,11.36,Diesel,210,Bulb fin keel

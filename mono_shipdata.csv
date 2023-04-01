@@ -1,0 +1,475 @@
+Make,Variant,Beam (m),Draft (m),Rigging,Displacement (kg),Sail Area (m²),Hull Materials,Sleeping Capacity,Headroom (m),Fuel Capacity (L),Water Capacity (L),Standard Engine Power (hp),LOA (m),Waterline Length (m),Fuel Type,Holding Tank Capacity (L),Keel Type
+Alubat,ovni395,3.8,1.925,Deck stepped sloop,7500,82.5,Aluminum,7.0,1.95,200,600,55,12.35,11.35,Diesel,80,Lifting keel
+Bavaria,38cruiser,3.87,1.95,In-mast furling,8300,77.4,Fiberglass,6.0,1.95,150,300,30,11.72,10.96,Diesel,150,Fin keel
+Bavaria,39cruiser,3.97,1.85,In-mast furling,8300,78.7,Fiberglass,6.0,1.95,210,360,29,12.14,11.18,Diesel,210,Fin keel
+Bavaria,42match,3.99,2.05,Racing Sloop,9500,84.3,Fiberglass,6.0,1.92,210,360,55,12.99,11.32,Diesel,210,Fin keel
+Bavaria,42cruiser,4.13,2.1,In-mast furling,9800,89.6,Fiberglass,7.0,2.05,210,360,55,12.99,11.4,Diesel,210,Fin keel
+Bavaria,cruiser46,4.35,2.1,In-mast furling,12600,108.0,Fiberglass,8.0,2.1,210,360,55,14.23,12.74,Diesel,210,Fin keel
+Bavaria,50cruiser,4.49,2.1,Roller furling,14500,112.0,Fiberglass,10.0,2.06,320,790,75,15.57,14.02,Diesel,280,Fin keel
+Bavaria,49cruiser,4.46,2.1,In-mast furling,13000,116.0,Fiberglass,7.0,2.05,300,650,75,14.98,13.42,Diesel,210,Fin keel
+Beneteau,first40.7,3.75,2.4,Fractional 9/10th rig,6850,110.0,Fiberglass,7.0,1.85,136,320,40,12.17,10.69,Diesel,90,Bulb fin keel
+Beneteau,cyclades39.3,3.96,1.9,Classic Mast,7800,66.9,Fiberglass,7.0,1.95,200,530,40,11.97,11.26,Diesel,230,Bulb fin keel
+Beneteau,oceanis423,3.9,2.0,Roller furling,8800,90.0,Fiberglass,7.0,1.95,200,540,50,13.09,11.15,Diesel,220,Bulb fin keel
+Beneteau,cyclades43.3,4.43,1.9,Classic Mast,9300,85.8,Fiberglass,7.0,1.95,220,530,54,13.26,12.84,Diesel,230,Bulb fin keel
+Beneteau,oceanisclipper423,3.9,2.0,In-mast furling,8800,90.0,Fiberglass,7.0,1.95,200,540,50,13.09,11.15,Diesel,220,Bulb fin keel
+Beneteau,oceanis43,4.12,2.05,In-mast furling,8875,89.4,Fiberglass,7.0,1.98,200,360,54,13.1,12.9,Diesel,220,Bulb fin keel
+Beneteau,first44.7,3.99,2.3,Fractional 9/10th rig,9650,104.0,Fiberglass,7.0,1.95,200,360,54,13.68,12.14,Diesel,55,Bulb fin keel
+Beneteau,oceanisclipper473,4.31,1.925,In-mast furling,11000,118.0,Fiberglass,9.0,2.02,235,970,76,14.3,12.9,Diesel,250,Bulb fin keel
+Beneteau,oceanis473,4.31,1.925,Roller furling,11000,117.5,Fiberglass,9.0,2.02,235,970,76,14.3,12.9,Diesel,250,Bulb fin keel
+Beneteau,first47.7,4.5,2.9,Fractional 9/10th rig,12640,133.5,Fiberglass,7.0,1.95,260,700,75,14.5,12.1,Diesel,100,Bulb fin keel
+Beneteau,oceanis523,4.99,2.3,Fractional 9/10th rig,17380,152.0,Fiberglass,8.0,2.05,450,1000,100,16.2,14.25,Diesel,100,Bulb fin keel
+Beneteau,oceanisclipper523,4.99,2.3,Fractional 9/10th rig,17380,152.0,Fiberglass,8.0,2.05,450,1000,100,16.2,14.25,Diesel,100,Bulb fin keel
+Beneteau,56,5.33,3.0,Fractional 9/10th rig,21500,183.0,Fiberglass,10.0,2.05,600,1000,140,17.15,16.02,Diesel,110,Lifting keel
+Beneteau,cyclades50.5,4.89,1.95,Roller furling,14000,111.5,Fiberglass,11.0,2.03,400,930,75,15.65,14.05,Diesel,240,Bulb fin keel
+C&C,121,3.71,2.13,Fractional sloop,5897,64.3,Fiberglass,6.0,1.86,95,325,27,11.74,9.52,Diesel,70,Fin keel
+Cabo Rico,42,3.17,1.52,Cutter rigged,11340,84.8,Fiberglass,5.0,1.88,310,300,50,12.9,10.06,Diesel,200,Cutaway full keel
+Caliber,40lrcse,3.69,1.52,Cutter rigged,11794,87.7,Fiberglass,6.0,1.96,227,475,56,12.83,10.97,Diesel,250,Cutaway full keel
+Catalina,387,3.96,1.52,Masthead sloop,8505,74.3,Fiberglass,6.0,1.93,132,336,40,11.78,10.34,Diesel,113,Wing keel
+Catalina,42mkii,4.22,1.68,Masthead sloop,10698,91.9,Fiberglass,6.0,2.03,208,387,50,13.16,11.85,Diesel,151,Wing keel
+Catalina,morgan440,4.27,1.68,Masthead sloop,10433,86.4,Fiberglass,7.0,1.96,227,568,75,13.41,11.84,Diesel,189,Fin keel
+Comar,comet41s,3.95,2.28,9/10ths fractional rig,7800,77.5,Composite,7.0,1.9,200,400,55,12.45,11.15,Diesel,200,T-Shape keel
+Comar,comet45s,4.2,2.7,Racing Sloop,10300,135.0,Composite,7.0,1.98,240,600,55,13.85,11.37,Diesel,170,Fin keel
+Comar,comet51s,4.3,2.95,Racing Sloop,14250,190.0,Composite,7.0,1.98,400,600,75,15.71,12.85,Diesel,300,Fin keel
+Comar,comet52rs,4.55,2.75,Racing Sloop,15500,200.0,Composite,6.0,2.05,350,500,75,16.2,12.9,Diesel,250,T-Shape keel
+Dehler,41cr,3.91,2.05,Fractional sloop,8500,90.0,Fiberglass,6.0,1.95,140,300,40,12.4,11.5,Diesel,150,L-shaped keel
+Delphia,40,3.94,1.95,Masthead sloop,8900,78.0,Fiberglass,7.0,1.95,210,360,40,12.35,11.15,Diesel,120,Bulb keel
+Dufour,385,3.93,1.93,Roller furling,7000,70.8,Fiberglass,6.0,1.95,160,440,30,11.72,10.69,Diesel,160,Bulb fin keel
+Dufour,385grandlarge,3.93,1.81,Roller furling,7000,70.8,Fiberglass,6.0,1.95,160,440,30,11.72,10.69,Diesel,160,Bulb fin keel
+Dufour,40,3.89,2.025,Roller furling,8400,90.4,Fiberglass,7.0,1.95,200,360,55,12.35,11.61,Diesel,50,Bulb fin keel
+Dufour,44,4.25,2.1,Roller furling,10600,100.0,Fiberglass,9.0,2.05,250,530,55,13.68,12.32,Diesel,220,Semi-elliptical keel
+Dufour,44performance,4.25,2.3,Roller furling,10800,106.9,Fiberglass,7.0,2.05,250,430,55,13.68,12.46,Diesel,75,Performance bulb keel
+Dufour,455,4.3,2.2,Roller furling,11000,113.0,Fiberglass,9.0,1.98,250,530,75,13.76,12.18,Diesel,250,Bulb fin keel
+Dufour,455grandlarge,4.3,2.2,Roller furling,11000,113.0,Fiberglass,7.0,1.98,250,530,75,13.76,12.18,Diesel,250,Bulb fin keel
+Elan,impression434,4.16,1.9,Roller furling,10800,97.0,Fiberglass,8.0,2,270,600,55,13.41,11.5,Diesel,240,Fin keel
+Grand Soleil,43,4.23,2.31,Racing sloop,9800,103.0,Fiberglass,7.0,2,200,600,54,12.95,11.46,Diesel,160,T-Shape keel
+Grand Soleil,45racing,4.41,3.25,Racing sloop,11500,137.0,Fiberglass,6.0,1.95,280,400,55,14.65,12.41,Diesel,75,Lifting keel
+Grand Soleil,50,4.57,2.6,Racing sloop,15000,150.0,Fiberglass,9.0,1.95,280,600,75,15.65,13.78,Diesel,400,T-Shape keel
+Hallberg-Rassy,40,3.82,1.99,Masthead sloop,12600,100.0,Fiberglass,6.0,1.96,345,460,55,12.4,10.36,Diesel,265,Fin keel
+Hallberg-Rassy,43,4.08,1.96,Masthead sloop,13800,114.5,Fiberglass,6.0,1.98,435,650,75,13.57,11.7,Diesel,360,Fin keel
+Hanse,411,4.04,2.05,Roller furling,9600,91.17,Fiberglass,7.0,1.98,140,325,38,12.35,11.4,Diesel,140,Shoal draft T-shaped keel
+Hanse,461,4.46,2.25,Roller furling,13200,122.53,Fiberglass,5.0,2.15,250,650,75,14.2,12.4,Diesel,110,Shoal keel
+Hanse,531,5.2,2.8,Roller furling,19000,152.9,Fiberglass,7.0,2.05,375,700,110,16.15,14.25,Diesel,320,T-shaped keel
+Harmony,42elegance,4.15,1.6,Masthead sloop,9600,81.6,Composite,7.0,1.95,200,500,54,12.8,11.4,Diesel,150,Bulb fin keel
+Hunter,38,3.94,1.52,Masthead sloop,9072,67.82,Fiberglass,6.0,1.85,151,284,40,11.58,10.19,Diesel,113,Fin keel
+Hunter,41ds,4.27,1.98,B&R fractional sloop,10433,92.9,Fiberglass,6.0,2.03,189,568,57,12.83,11.43,Diesel,170,Shoal draft cast iron keel
+Hunter,41decksalon,4.27,1.98,B&R fractional sloop,10433,91.04,Fiberglass,6.0,2.03,189,568,57,12.83,11.43,Diesel,170,Shoal draft cast iron keel
+Hunter,41aftcockpit,4.27,1.98,B&R fractional sloop,10251,82.31,Fiberglass,6.0,2.03,189,568,40,12.6,11.4,Diesel,151,Shoal draft cast iron keel
+Hunter,44ds,4.27,1.79,B&R fractional sloop,11339,105.5,Fiberglass,7.0,2.03,189,568,57,13.41,12.0,Diesel,208,Shoal draft keel
+Hunter,44,4.27,1.79,Masthead sloop,11794,100.3,Fiberglass,7.0,2.03,227,568,54,13.41,12.01,Diesel,208,Shoal draft fin keel
+Hunter,passage456,4.47,1.93,Masthead sloop,14833,118.36,Fiberglass,7.0,1.96,379,757,76,14.02,12.16,Diesel,378,Bulb wing keel
+Hunter,466,4.47,1.98,Masthead sloop,17000,129.0,Fiberglass,7.0,2.05,416,946,76,14.33,12.63,Diesel,75,Bulb wing keel
+Hylas,49,4.67,2.08,Masthead sloop,16000,119.0,Fiberglass,7.0,1.96,568,757,76,14.96,12.8,Diesel,350,Fin keel
+Island Packet,370,4.27,1.52,Masthead cutter,9979,88.4,Fiberglass,5.5,2.01,454,567,54,11.53,9.98,Diesel,265,Full keel
+Island Packet,420,4.44,1.52,Masthead cutter,13381,107.5,Fiberglass,6.5,2.03,568,681,75,13.41,11.89,Diesel,302,Full keel
+J Boats,j/122,3.63,2.29,Cruiser/Racer,7030,90.6,Fiberglass,6.0,1.85,95,190,40,12.19,10.36,Diesel,95,Fin keel with bulb
+Jeanneau,sunodyssey40.3,3.95,1.95,Fractional sloop,8080,70.4,Fiberglass,7.0,1.94,136,320,40,12.24,11.18,Diesel,170,Bulb fin keel
+Jeanneau,sunodyssey40,3.95,1.95,Fractional sloop,7185,64.7,Fiberglass,7.0,1.94,136,320,40,12.24,11.18,Diesel,136,Bulb fin keel
+Jeanneau,sunodyssey43ds,4.19,1.6,Masthead sloop,9300,92.9,Fiberglass,7.0,2.01,200,530,54,13.21,11.45,Diesel,200,Shoal draft keel
+Jeanneau,sunodyssey45,4.37,1.85,Masthead sloop,10800,105.0,Fiberglass,9.0,2.03,237,618,75,13.75,11.61,Diesel,240,Fin keel
+Jeanneau,sunodyssey49ds,4.49,1.8,Masthead sloop,12600,121.0,Fiberglass,7.0,1.98,240,700,76,15.06,13.74,Diesel,100,Shoal draft keel
+Jeanneau,sunodyssey49,4.49,2.015,Masthead sloop,12000,124.5,Fiberglass,9.0,1.98,240,700,75,14.98,12.91,Diesel,110,Fin keel
+Jeanneau,sunodyssey54ds,4.92,2.3,Masthead sloop,17900,126.0,Fiberglass,7.0,1.98,400,930,100,16.75,14.78,Diesel,410,Shoal draft keel
+Jeanneau,sunodyssey49,4.49,2.015,Masthead sloop,12000,124.5,Fiberglass,9.0,1.98,240,700,75,14.98,12.91,Diesel,110,Fin keel
+Malo,43classic,4.05,2.0,Masthead sloop,13700,109.0,Sandwich construction with divinycell core,6.0,1.95,395,500,55,13.33,11.23,Diesel,380,Fin keel
+Malo,46,4.35,2.25,Masthead sloop,17900,118.0,Sandwich construction with divinycell core,7.0,1.96,660,600,75,14.93,12.64,Diesel,360,Fin keel
+Moody,49,4.57,2.08,Masthead sloop,15600,129.6,Fiberglass,5.0,2.01,454,568,100,14.93,12.75,Diesel,110,Bulb fin keel
+Morris,yachtsoceanseries48gt,4.27,2.1,Masthead sloop,18239,144.5,Composite,7.0,1.98,545,757,76,16.46,13.72,Diesel,320,Fin keel
+Najad,380,3.9,1.9,Sloop,11500,87.7,Fiberglass with Divinycell core,5.0,1.85,385,420,55,11.65,9.28,Diesel,185,Fin keel
+Nauticat,385,3.35,1.86,Ketch,12000,106.0,Fiberglass,7.0,1.98,500,760,75,11.8,9.9,Diesel,220,Long keel
+Nauticat,44,3.78,1.85,Ketch,16250,105.0,Fiberglass,7.0,1.96,600,800,88,13.35,11.0,Diesel,300,Long keel
+Poncin,yachtsharmony47,4.47,2.05,Sloop,12700,108.0,Fiberglass,8.0,1.95,450,750,75,14.33,11.36,Diesel,250,Bulb fin keel
+Salona,yachtssalona40,3.9,2.45,Rod-rigging,7000,82.0,Fiberglass,7.0,1.95,200,270,40,12.2,10.85,Diesel,120,Fin keel
+Salona,yachtssalona45,4.21,2.5,Rod-rigging,10300,128.0,Fiberglass,9.0,1.98,320,390,55,13.5,11.5,Diesel,55,Fin keel
+ShearWater,39,3.66,2.135,Masthead sloop,9072,70.6,Fiberglass,5.0,1.9,225,340,40,12.01,10.97,Diesel,130,Fin keel
+Sunbeam,yachtssunbeam39,3.95,2.05,7/8 fractional sloop,10900,76.2,Composite,5.0,1.96,250,360,50,12.58,11.14,Diesel,180,Fin keel
+Sunbeam,yachtssunbeam53,4.75,2.22,7/8 fractional sloop,23500,169.0,Composite,5.0,2.1,500,750,110,16.15,14.1,Diesel,370,Fin keel
+Sweden Yachts,42,3.86,2.25,7/8 fractional sloop,10200,95.0,Fiberglass,6.0,1.98,200,300,55,12.88,10.69,Diesel,55,Bulb fin keel
+Tartan,4400,4.34,1.98,Masthead sloop,13835,102.5,Fiberglass,7.0,1.96,340,600,75,13.41,11.38,Diesel,208,Deep fin keel
+Van De Stadt,beluga46,4.2,2.1,Sloop,12000,100.0,Steel,7.0,1.95,800,800,75,14.02,11.15,Diesel,400,Fin keel
+Wauquiez,centurion40s,3.85,2.05,9/10 fractional sloop,8380,70.0,Fiberglass,5.0,1.92,180,320,40,12.58,10.36,Diesel,40,Fin keel
+Wauquiez,pilotsaloon40,4.11,1.85,Masthead cutter,10000,97.0,Fiberglass,5.0,1.98,330,530,55,12.98,11.0,Diesel,265,Shoal draft keel
+X-Yachts,x-40,3.81,2.3,9/10 fractional sloop,8500,87.4,Fiberglass,7.0,1.95,200,340,40,12.35,11.3,Diesel,135,Fin keel
+X-Yachts,x-50,4.61,2.7,Masthead sloop,15700,142.0,Fiberglass,7.0,1.98,400,460,75,15.24,13.36,Diesel,75,Fin keel
+Alliage,yachtsalliage44,4.2,2.0,Cutter,14000,102.5,Aluminum,5.0,2,400,800,75,14.0,11.7,Diesel,180,Bulb fin keel
+Amel,supermaramu2000,4.93,2.175,Ketch,16400,132.0,Fiberglass,5.0,1.98,600,1000,100,16.0,13.54,Diesel,380,Shark fin keel with skeg-hung rudder
+Bavaria,cruiser50,4.63,2.05,Masthead sloop,14500,136.0,Fiberglass,8.0,2.05,320,560,75,15.57,14.05,Diesel,320,Fin keel
+Beneteau,oceanis423,3.9,2.0,Masthead sloop,8925,89.6,Fiberglass,7.0,1.97,200,540,54,13.09,11.53,Diesel,220,Fin keel
+Beneteau,cyclades43.4,4.43,1.9,Masthead sloop,9500,78.1,Fiberglass,5.0,1.98,220,530,54,13.26,12.7,Diesel,250,Shoal draft keel
+Beneteau,first50,4.47,2.45,Masthead sloop,13300,127.0,Fiberglass,7.0,1.95,235,400,75,15.07,14.04,Diesel,110,Fin keel
+Beneteau,oceanis50,4.82,2.0,Masthead sloop,12600,107.0,Fiberglass,7.0,1.95,235,565,75,15.1,14.75,Diesel,235,Deep fin keel
+Beneteau,cyclades50.5,4.9,1.9,Masthead sloop,13500,100.4,Fiberglass,11.0,1.98,440,930,110,15.65,14.35,Diesel,345,Shoal draft keel
+Beneteau,oceanis51.1,4.8,2.3,Masthead sloop,14600,116.0,Fiberglass,8.0,2.05,200,768,80,15.94,14.98,Diesel,235,Deep fin keel
+Beneteau,523,4.88,2.35,Masthead sloop,17000,152.0,Fiberglass,7.0,2.05,400,700,100,15.85,14.04,Diesel,100,Fin keel
+Beneteau,oceanis523a,5.96,2.5,Masthead sloop,17637,193.0,Fiberglass,10.0,2,450,1000,100,16.2,15.24,Diesel,240,Shoal draft keel
+C&C,yachts115,3.66,1.96,Masthead sloop,6123,63.9,Fiberglass,6.0,1.88,79,284,30,11.48,9.62,Diesel,75,Bulb fin keel
+Catalina,400mkii,4.27,1.52,Wing keel,10659,87.9,Fiberglass,6.0,1.93,165,310,56,12.5,10.67,Diesel,163,Wing keel
+Catalina,morgan440dssloop,4.17,1.625,Masthead sloop,10658,115.0,Fiberglass,7.0,2,218,720,75,13.41,11.91,Diesel,208,Fin keel
+Dufour,40performance,3.89,2.1,Masthead sloop,7535,93.5,Fiberglass,6.0,1.95,160,360,55,12.35,11.04,Diesel,40,Shoal draft keel
+Elan,impression384,3.87,1.98,Masthead sloop,7600,70.0,Fiberglass,6.0,1.9,165,280,29,11.55,10.37,Diesel,130,Shoal draft keel
+Grand Soleil,40,3.85,2.3,9/10 fractional sloop,7750,92.5,Fiberglass,6.0,1.96,200,360,40,12.35,10.7,Diesel,40,Shoal draft keel
+Grand Soleil,45,4.27,2.6,9/10 fractional sloop,10750,121.0,Fiberglass,7.0,1.95,250,400,55,13.85,12.88,Diesel,75,Fin keel
+Hanse,400,4.04,2.05,Masthead sloop,8400,88.0,Fiberglass,6.0,1.95,140,320,40,12.1,11.0,Diesel,120,Shoal draft keel
+Hanse,400e,4.16,2.05,Masthead sloop,8800,94.0,Fiberglass,6.0,1.98,140,320,55,12.1,11.0,Diesel,120,Shoal draft keel
+Hanse,470e,4.46,2.23,Masthead sloop,12600,136.5,Fiberglass,7.0,2.05,250,450,75,14.31,12.35,Diesel,250,Deep fin keel
+Hanse,540e,5.2,2.95,Masthead sloop,21000,201.0,Fiberglass,7.0,2.15,500,800,110,16.08,14.3,Diesel,110,Deep fin keel
+Harmony,38,3.91,1.98,Masthead sloop,7800,70.0,Fiberglass,5.0,1.95,200,330,40,11.6,10.0,Diesel,80,Fin keel
+Harmony,47,4.49,1.95,Masthead sloop,12600,109.0,Fiberglass,7.0,2.05,200,700,75,14.3,12.3,Diesel,230,Shoal draft keel
+Hunter,380,3.84,1.75,B&R rig,7680,71.5,Fiberglass,6.0,1.93,151,284,40,11.58,10.14,Diesel,136,Wing keel
+Hunter,41,4.09,2.135,B&R rig,9800,93.0,Fiberglass,7.0,1.98,189,284,50,12.45,11.07,Diesel,57,Wing keel
+Hunter,44decksalon,4.27,1.725,B&R rig,11339,100.8,Fiberglass,6.0,1.98,189,400,54,13.41,12.7,Diesel,208,Wing keel
+Hunter,45centercockpit,4.27,1.725,B&R rig,12247,100.8,Fiberglass,7.0,2.01,303,757,75,14.02,12.19,Diesel,208,Wing keel
+Hunter,45centercockpit,4.27,1.725,B&R rig,12247,100.8,Fiberglass,7.0,2.01,303,757,75,14.02,12.19,Diesel,208,Wing keel
+Island Packet,440,4.57,1.625,Cutter,16278,117.7,Fiberglass,6.0,2.03,757,681,75,13.41,11.58,Diesel,416,Full keel
+Island Packet,445,4.42,1.625,Cutter,16000,116.5,Fiberglass,5.0,2.03,568,681,75,13.72,12.04,Diesel,416,Full keel
+Island Packet,485,4.88,1.905,Cutter,20185,154.7,Fiberglass,6.5,2.06,1135,1090,110,15.09,13.92,Diesel,160,Full keel
+Jeanneau,sunodyssey42ds,4.16,2.13,Masthead sloop,8900,89.6,Fiberglass,6.0,1.98,130,355,54,12.93,11.61,Diesel,200,Fin keel
+Jeanneau,sunodyssey48ds,4.75,2.15,Masthead sloop,12600,114.0,Fiberglass,7.0,1.98,240,700,75,14.75,13.34,Diesel,110,Shoal draft keel
+Jeanneau,sunodyssey49(owner'sversion),4.49,2.425,Masthead sloop,13000,128.5,Fiberglass,5.0,1.98,240,700,75,15.07,13.41,Diesel,237,Fin keel
+Najad,440cc,3.95,1.95,9/10 fractional sloop,14400,107.5,Fiberglass,6.0,2.05,375,670,75,13.45,11.74,Diesel,150,Fin keel
+Nordship,ds38,3.66,1.98,7/8 fractional sloop,9600,83.0,Fiberglass,5.0,1.9,170,500,55,11.85,10.28,Diesel,55,Long keel
+Oyster,46,4.42,2.13,Cutter,17464,121.04,Fiberglass,7.0,1.96,830,800,80,14.07,11.96,Diesel,220,Bulb fin keel
+Passport,470,4.52,1.98,Cutter,20412,116.5,Fiberglass,7.0,1.96,750,950,76,14.33,12.19,Diesel,320,Fin keel
+Passport,vista515centercockpit,4.57,1.93,Cutter,23899,143.7,Fiberglass,7.0,2.03,1070,1000,110,15.55,13.72,Diesel,450,Fin keel
+Sabre,386,3.89,1.905,7/8 fractional sloop,9072,75.0,Fiberglass,6.0,1.93,227,416,40,11.81,10.31,Diesel,182,Bulb fin keel
+Sabre,426,4.01,2.17,9/10 fractional sloop,12167,95.0,Fiberglass,6.0,1.98,265,568,54,12.95,11.33,Diesel,56,Bulb fin keel
+Tayana,48,4.65,2.085,Cutter,20412,120.5,Fiberglass,6.0,1.96,900,900,76,14.63,12.5,Diesel,300,Cutaway keel
+Wauquiez,pilotsaloon41,4.29,2.05,Masthead sloop,12000,94.0,Fiberglass,5.0,1.95,220,460,55,12.8,10.9,Diesel,100,Fin keel
+Wauquiez,pilotsaloon47,4.7,2.275,Masthead sloop,16000,141.6,Fiberglass,7.0,2,600,800,110,14.92,13.42,Diesel,200,Fin keel
+X-Yachts,x-40,3.81,2.2,9/10 fractional sloop,8600,84.5,Fiberglass,5.0,1.93,165,340,40,12.35,11.07,Diesel,200,Fin keel
+X-Yachts,x-43,3.95,2.375,9/10 fractional sloop,8900,98.0,Fiberglass,6.0,1.95,165,340,40,13.1,11.45,Diesel,200,Shoal draft keel
+X-Yachts,50,4.58,2.65,9/10 fractional sloop,15860,149.0,Fiberglass,7.0,1.98,350,620,75,15.24,13.67,Diesel,110,Shoal draft keel
+Zuanelli,52dh,4.45,2.2,Masthead sloop,18000,144.0,Fiberglass,7.0,1.95,500,1000,82,15.9,13.5,Diesel,400,Fin keel
+Allures,44,4.34,2.05,Cutter,12450,108.0,Fiberglass with Kevlar reinforcements,6.0,1.98,600,600,75,13.67,12.2,Diesel,200,Swing keel
+Alubat,cigale16,4.78,2.7,9/10 fractional sloop,13000,140.4,Aluminum,5.0,1.95,300,600,75,16.03,14.45,Diesel,160,Fin keel
+Archambault,a40rc,3.86,2.45,9/10 fractional sloop,6850,84.8,Fiberglass and polyester resin,6.5,1.96,130,200,40,12.35,11.31,Diesel,60,Fin keel
+Bavaria,44vision,4.08,2.07,Masthead sloop,11000,106.0,Fiberglass,6.0,2.05,210,360,55,13.78,12.74,Diesel,210,Shoal draft keel
+Bavaria,46cruiser,4.35,2.1,Masthead sloop,12600,108.0,Fiberglass,7.0,1.95,210,360,55,14.27,12.74,Diesel,210,Shoal draft keel
+Bavaria,cruiser46,4.35,2.1,Masthead sloop,13000,112.0,Fiberglass,7.0,1.95,210,360,57,14.27,12.74,Diesel,210,Shoal draft keel
+Bavaria,cruiser50,4.68,2.25,Masthead sloop,14500,119.0,Fiberglass,8.0,2.07,320,790,75,15.57,14.02,Diesel,320,Shoal draft keel
+Beneteau,oceanis40,3.96,1.975,Masthead sloop,7600,77.5,Fiberglass,6.0,1.95,200,360,40,12.17,11.29,Diesel,200,Fin keel
+Beneteau,cyclades43,4.43,1.975,Masthead sloop,9500,90.7,Fiberglass,7.0,1.98,220,530,54,13.26,11.45,Diesel,220,Shoal draft keel
+Beneteau,oceanis46,4.25,2.05,Masthead sloop,11020,97.0,Fiberglass,7.0,1.98,235,530,54,14.09,13.11,Diesel,220,Fin keel
+Beneteau,oceanis46(ownerversion),4.25,2.05,Masthead sloop,11280,97.0,Fiberglass,4.0,1.98,235,530,75,14.09,13.11,Diesel,220,Fin keel
+Beneteau,oceanis49,4.82,2.14,Masthead sloop,12650,129.5,Fiberglass,7.0,2,470,670,76,15.73,14.94,Diesel,75,Shoal draft keel
+Beneteau,oceanis50,4.47,2.1,Masthead sloop,13100,109.0,Fiberglass,8.0,2,238,565,75,15.42,14.75,Diesel,110,Shoal draft keel
+Bestevaer,53st,4.78,2.22,Cutter,20000,162.7,Aluminum,6.0,2.08,1000,700,100,16.2,14.65,Diesel,400,Canting keel
+Caliber,47lrcse,4.57,1.95,Cutter,17237,132.5,Fiberglass,7.0,1.93,820,950,75,14.33,12.5,Diesel,600,Fin keel
+Caliber,47lrc,4.57,1.95,Cutter,16466,123.1,Fiberglass,7.0,1.93,820,950,75,14.33,12.5,Diesel,110,Fin keel
+Catalina,470,4.3,2.03,Masthead sloop,13000,100.7,Fiberglass,7.0,1.96,208,605,56,14.18,11.97,Diesel,150,Fin keel
+Contest,50cs,4.58,1.975,Masthead sloop,15900,127.0,Fiberglass,7.0,2,425,740,78,15.3,13.2,Diesel,150,Shoal draft keel
+Contest,55cs,4.68,2.4000000000000004,Masthead sloop,23000,174.0,Fiberglass,7.0,2.05,775,905,100,16.75,14.58,Diesel,160,Shoal draft keel
+Dehler,39sq,3.8 or 4.0,2.14,9/10 fractional sloop,8400,84.0,Fiberglass,6.0,1.95,160,360,40,11.99,10.75,Diesel,140,Shoal draft keel
+Dehler,44,4.18,2.3,9/10 fractional sloop,11000,108.5,Fiberglass,7.0,2,220,450,55,13.7,12.45,Diesel,55,Shoal draft keel
+Dehler,44sq,4.18,2.3,9/10 fractional sloop,11500,108.5,Fiberglass,7.0,2,220,450,55,13.7,12.45,Diesel,55,Shoal draft keel
+Dehler,47sq,4.5,2.45,9/10 fractional sloop,12300,139.0,Fiberglass,7.0,2,250,460,75,14.75,13.8,Diesel,55,Shoal draft keel
+Dehler,47,4.5,2.5,9/10 fractional sloop,12000,139.0,Fiberglass,7.0,2,250,460,75,14.75,13.8,Diesel,55,Shoal draft keel
+Dufour,485grandlarge,4.77,2.2,Masthead sloop,14000,135.0,Fiberglass,10.0,2.05,440,730,110,14.75,13.17,Diesel,250,Shoal draft keel
+Dufour,485,4.77,2.2,Masthead sloop,13000,135.0,Fiberglass,10.0,1.96,440,730,75,14.73,13.17,Diesel,250,Shoal draft keel
+Dufour,525grandlarge,4.94,2.3,Masthead sloop,16000,147.0,Fiberglass,10.0,2.05,500,730,110,15.3,14.3,Diesel,250,Shoal draft keel
+Elan,410,3.95,2.45,9/10 fractional sloop,8900,89.5,Fiberglass,6.0,1.98,165,210,40,12.35,11.7,Diesel,170,Fin keel
+Elan,impression514,4.68,2.1,Masthead sloop,16800,156.0,Fiberglass,10.0,2.05,440,980,110,16.1,14.5,Diesel,270,Shoal draft keel
+Grand Soleil,43b&c,4.2,2.5,9/10 fractional sloop,10900,95.0,Fiberglass,7.0,1.98,230,360,55,13.25,11.33,Diesel,330,Fin keel
+Grand Soleil,54,4.87,2.45,Masthead sloop,21300,172.0,Fiberglass and carbon fiber,7.0,2.05,400,700,110,16.35,14.2,Diesel,300,Shoal draft keel
+Grand Soleil,56,5.3,2.55,Masthead sloop,26200,216.0,Fiberglass and carbon fiber,7.0,1.95,500,800,110,17.22,15.2,Diesel,650,Shoal draft keel
+Hallberg-Rassy,54,4.75,2.4,Masthead sloop,26000,169.0,Fiberglass,7.0,2.03,1000,960,150,16.57,14.23,Diesel,600,Centre cockpit
+Hanse,430e,4.18,2.03,Masthead sloop,10500,100.5,Fiberglass,6.0,2.05,160,450,55,13.25,12.24,Diesel,220,Shoal draft keel
+Hanse,430,4.18,2.09,Masthead sloop,10500,100.5,Fiberglass,6.0,2.05,160,450,55,13.25,12.24,Diesel,220,Shoal draft keel
+Hanse,470,4.46,2.35,Masthead sloop,12500,123.0,Fiberglass,7.0,2.05,250,520,75,14.31,12.38,Diesel,300,Shoal draft keel
+Hanse,540,5.2,2.7,Masthead sloop,21000,191.0,Fiberglass,7.0,2.15,500,800,110,16.08,14.98,Diesel,650,Shoal draft keel
+Hunter,49,4.88,2.06,Masthead sloop,16190,139.4,Fiberglass,7.0,2.03,378,757,76,15.11,13.74,Diesel,208,Fin keel
+Hylas,46,4.52,2.05,Masthead cutter,15650,127.3,Fiberglass,5.0,1.96,492,750,75,14.02,12.45,Diesel,200,Fin keel
+Island Packet,spcruiser,4.57,1.05,Ketch,13800,86.3,Fiberglass,3.0,1.96,757,568,110,12.5,11.89,Diesel,303,Shoal draft keel
+Island Packet,465,4.57,1.37,Ketch,16100,103.6,Fiberglass,6.0,1.98,757,681,75,14.26,12.19,Diesel,340,Shoal draft keel
+J Boats,j/122,3.63,2.29,Masthead sloop,7800,109.8,Fiberglass,7.0,1.93,200,160,54,12.19,10.67,Diesel,80,Fin keel
+Jeanneau,sunodyssey39i,3.88,2.04,Masthead sloop,7860,66.0,Fiberglass,6.0,1.94,130,355,40,11.86,11.18,Diesel,120,Shoal draft keel
+Jeanneau,sunodyssey39ds,3.88,1.7,Masthead sloop,8280,75.0,Fiberglass,6.0,1.94,200,355,40,11.86,11.18,Diesel,120,Shoal draft keel
+Jeanneau,sunodyssey39iperformance,3.88,2.065,Masthead sloop,7860,67.0,Fiberglass,6.0,1.94,130,355,40,11.86,11.18,Diesel,40,Shoal draft keel
+Jeanneau,42ds,4.13,2.13,Masthead sloop,8900,77.5,Fiberglass,7.0,1.95,200,355,54,12.93,11.61,Diesel,130,Shoal draft keel
+Jeanneau,sunodyssey42i,4.13,2.13,Masthead sloop,8900,80.5,Fiberglass,7.0,1.98,130,355,54,12.93,11.61,Diesel,54,Shoal draft keel
+Jeanneau,sunodyssey42,4.13,1.825,Masthead sloop,9300,84.9,Fiberglass,7.0,1.98,150,355,54,12.85,11.6,Diesel,60,Shoal draft keel
+Jeanneau,sunodyssey45performance,4.37,2.3,Masthead sloop,10600,118.0,Fiberglass,7.0,1.97,240,450,75,13.72,12.19,Diesel,205,Shoal draft keel
+Jeanneau,sunodyssey45ds,4.37,1.85,Masthead sloop,10600,95.0,Fiberglass,7.0,1.98,240,450,75,13.75,12.19,Diesel,205,Shoal draft keel
+Jeanneau,sunodyssey49i,4.49,2.15,Masthead sloop,12600,120.0,Fiberglass,8.0,1.98,240,615,76,14.98,13.96,Diesel,240,Shoal draft keel
+Malo,40classicmkii,3.71,1.87,7/8 fractional sloop,10000,79.5,Fiberglass,6.0,1.91,225,415,55,12.34,10.36,Diesel,265,Fin keel
+Maxi,1300,4.05,2.0,Masthead sloop,10250,92.0,Fiberglass,7.0,1.93,215,600,80,13.1,11.7,Diesel,360,Shoal draft keel
+Nautor's Swan,46,4.45,2.4000000000000004,Masthead sloop,16000,121.4,Fiberglass,7.0,1.95,300,600,75,14.45,11.9,Diesel,200,Fin keel
+Oyster,53,4.78,2.44,Masthead cutter,26500,181.0,Fiberglass,7.0,1.98,1200,1000,100,16.26,13.94,Diesel,160,Centre cockpit
+Poncin,harmony52,4.86,2.14,Masthead sloop,15000,130.0,Fiberglass,9.0,2,340,1000,110,16.0,15.1,Diesel,250,Shoal draft keel
+Rustler,42,3.96,2.16,Cutter,13500,116.0,Fiberglass,6.0,1.93,350,597,72,12.82,10.67,Diesel,210,Fin keel
+Sly,42,4.18,2.4000000000000004,Masthead sloop,9500,108.0,Fiberglass,7.0,1.98,220,400,55,12.89,11.57,Diesel,200,Shoal draft keel
+Sly,53,5.03,2.7,Masthead sloop,17000,217.0,Fiberglass,9.0,1.98,500,870,110,16.06,14.46,Diesel,110,Shoal draft keel
+Southerly,135,4.63,1.885,Lift keel,27000,208.0,Fiberglass,7.0,2.03,900,1100,140,19.95,17.02,Diesel,300,Lift keel
+Sweden Yachts,45,3.84,2.14,Masthead sloop,12000,92.0,Fiberglass,7.0,1.93,250,400,75,13.7,11.58,Diesel,240,Fin keel
+Tayana,pilothouse,4.88,1.68,Cutter,22700,139.0,Fiberglass,6.0,2.01,750,1000,110,15.87,13.69,Diesel,450,Fin keel
+Tayana,52ds,4.9,2.1,Ketch,23800,178.0,Fiberglass,7.0,1.98,800,950,110,16.1,13.72,Diesel,160,Shoal draft keel
+Vismara,v52,4.35,2.65,Masthead sloop,13000,144.0,Carbon fiber,7.0,1.95,300,600,75,16.18,14.07,Diesel,300,Shoal draft keel
+Vismara,52carbon,4.35,2.65,Masthead sloop,12000,151.0,Carbon fiber,7.0,1.95,300,600,75,16.18,14.07,Diesel,110,Shoal draft keel
+X-Yachts,x-41,3.49,2.46,Masthead sloop,6700,94.0,Fiberglass,7.0,1.9,200,200,40,12.35,11.34,Diesel,29,Fin keel
+X-Yachts,x-46,4.36,2.7,Masthead sloop,12100,122.0,Fiberglass,7.0,1.98,230,460,55,14.02,12.17,Diesel,54,Shoal draft keel
+X-Yachts,x-55,4.97,3.05,Masthead sloop,20500,170.0,Fiberglass,8.0,1.98,500,700,110,16.76,14.85,Diesel,340,Shoal draft keel
+Bavaria,40cruiser,3.99,2.05,Masthead sloop,8500,77.0,Fiberglass,6.0,1.95,210,360,28,12.35,11.35,Diesel,150,Shoal draft keel
+Beneteau,43,4.12,2.0,Masthead sloop,8870,82.3,Fiberglass,7.0,1.95,200,360,54,13.08,11.6,Diesel,200,Shoal draft keel
+Beneteau,oceanis43.4,4.12,2.0,Masthead sloop,8770,77.6,Fiberglass,7.0,1.98,200,360,54,13.08,11.6,Diesel,200,Shoal draft keel
+Beneteau,first45,4.2,2.7,Masthead sloop,10600,103.6,Fiberglass,7.0,1.95,200,360,54,14.07,12.94,Diesel,130,Fin keel
+Beneteau,first50sport,4.49,2.5,Masthead sloop,14000,137.5,Fiberglass,7.0,1.95,200,700,75,15.1,14.4,Diesel,75,Fin keel
+Comar,comet450,4.2,2.5,Masthead sloop,13500,142.0,PVC foam and fiberglass,7.0,1.98,250,600,75,13.7,12.15,Diesel,180,Fin keel
+Dufour,425grandlarge,4.16,2.1,Masthead sloop,8900,85.0,Fiberglass,7.0,1.95,160,320,55,12.9,11.45,Diesel,60,Shoal draft keel
+Elan,impression450,4.41,2.25,Masthead sloop,11500,94.0,Fiberglass,7.0,2.05,270,513,55,13.85,12.67,Diesel,165,Shoal draft keel
+Hanse,400epoxy,4.04,1.98,Masthead sloop,8400,87.0,Fiberglass composite,7.0,1.95,140,325,40,12.35,11.4,Diesel,125,Shoal draft keel
+Hunter,45ds,4.27,1.78,Sloop,10400,108.0,Fiberglass,7.0,1.98,200,570,75,13.72,12.37,Diesel,208,Shoal draft keel
+Hunter,45centercockpit,4.27,1.67,Sloop,12600,109.0,Fiberglass,7.0,2.03,378,757,76,14.02,12.37,Diesel,208,Shoal draft keel
+Jeanneau,39i,3.88,1.91,Masthead sloop,7860,70.0,Fiberglass,6.0,1.95,130,355,40,11.62,10.69,Diesel,140,Shoal draft keel
+Jeanneau,sunodyssey42iperformance,4.13,2.13,Masthead sloop,8900,85.0,Fiberglass,7.0,1.93,135,355,54,12.85,11.61,Diesel,200,Shoal draft keel
+Jeanneau,sunodyssey49iperformance,4.49,2.15,Masthead sloop,12000,120.0,Fiberglass,8.0,1.98,240,615,75,14.98,13.96,Diesel,240,Shoal draft keel
+Jeanneau,sunodyssey50ds,4.49,2.15,Masthead sloop,13900,116.0,Fiberglass,8.0,2,410,750,75,14.75,13.12,Diesel,240,Shoal draft keel
+Jeanneau,sunodyssey49i,4.49,2.15,Masthead sloop,11000,118.5,Fiberglass,8.0,1.98,240,615,75,14.98,13.96,Diesel,240,Shoal draft keel
+Malo,40,3.77,1.8,Sloop,10500,66.0,Fiberglass,6.0,1.9,240,470,55,12.45,10.55,Diesel,280,Fin keel
+Morris,m42,4.11,1.865,Masthead sloop,11300,100.0,Fiberglass composite,5.0,1.93,250,600,57,13.43,11.89,Diesel,180,Shoal draft keel
+Oyster,54,4.88,2.39,Sloop,27000,159.7,Fiberglass,7.0,1.98,1175,950,110,16.46,13.97,Diesel,400,Shoal draft keel
+Passport,470centercockpit,4.37,2.045,Cutter,15400,148.0,Fiberglass,7.0,1.98,757,757,75,14.35,11.58,Diesel,265,Shoal draft keel
+Sweden Yachts,54,4.72,2.25,Sloop,21500,167.0,Fiberglass,7.0,2,550,800,110,16.34,13.36,Diesel,450,Shoal draft keel
+Tartan,4300,4.22,2.08,Masthead sloop,11340,100.3,Fiberglass,6.0,1.98,200,440,75,13.11,11.28,Diesel,190,Fin keel
+X-Yachts,x-41onedesign,3.29,2.6,Masthead sloop,5500,90.6,Carbon fiber,7.0,1.92,150,150,40,12.35,11.34,Diesel,50,Shoal draft keel
+X-Yachts,x-50modern,4.58,2.7,Masthead sloop,16100,147.9,Fiberglass,8.0,1.98,370,600,110,15.24,13.76,Diesel,75,Shoal draft keel
+Zuanelli,40,3.84,1.95,Masthead sloop,7500,78.5,Fiberglass,7.0,1.96,200,350,55,12.2,10.66,Diesel,160,Fin keel
+Alliage,azzuro53,4.63,2.1,Sloop,22000,168.6,Fiberglass,6.0,1.98,700,1000,110,16.15,14.3,Diesel,400,Fin keel
+Bavaria,47cruiser,4.45,1.975,Sloop,12600,100.0,Fiberglass,7.0,2.05,210,650,75,14.27,12.99,Diesel,210,Shoal draft keel
+Bavaria,51cruiser,4.65,2.05,Sloop,15700,133.0,Fiberglass,8.0,1.98,280,650,75,15.57,14.02,Diesel,280,Shoal draft keel
+Bavaria,56cruiser,5.25,2.52,Sloop,18900,169.0,Fiberglass,8.0,2.07,280,690,110,16.75,15.43,Diesel,280,Shoal draft keel
+Beneteau,first40,3.89,2.45,Masthead sloop,7580,82.3,Fiberglass,7.0,1.9,130,360,40,12.58,11.18,Diesel,200,Fin keel
+Beneteau,first40cr,3.95,2.45,Masthead sloop,7680,97.0,Fiberglass,7.0,1.94,130,320,40,12.58,11.18,Diesel,30,Fin keel
+Grand Soleil,46jezequel,4.34,2.45,Masthead sloop,12800,120.0,Fiberglass,7.0,1.96,230,600,75,14.98,12.9,Diesel,240,Shoal draft keel
+Grand Soleil,48oceancruiser,4.5,2.7,Sloop,15500,142.0,Fiberglass,7.0,1.98,400,900,75,14.82,12.8,Diesel,350,Shoal draft keel
+Hunter,50,4.83,2.06,B&R fractional sloop,15000,141.0,Fiberglass,7.0,2,568,757,76,15.47,13.11,Diesel,280,Shoal draft keel
+Jeanneau,sunodyssey44i,4.37,2.0,Masthead sloop,9640,89.0,Fiberglass,8.0,2.02,240,615,54,13.75,12.06,Diesel,200,Shoal draft keel
+Jeanneau,sunodyssey50ds,4.49,2.15,Masthead sloop,13900,116.0,Fiberglass,8.0,2,410,750,75,14.75,13.12,Diesel,240,Shoal draft keel
+Jeanneau,sunodyssey49i,4.49,2.15,Masthead sloop,11000,118.5,Fiberglass,8.0,1.98,240,615,75,14.98,13.96,Diesel,240,Shoal draft keel
+Malo,40classic,3.77,1.8,Sloop,10500,66.0,Fiberglass,6.0,1.9,240,470,55,12.45,10.55,Diesel,280,Fin keel
+Moody,45ds,4.27,2.03,Sloop,17637,131.0,Fiberglass,7.0,1.96,400,820,75,13.72,11.53,Diesel,230,Shoal draft keel
+Moody,45classic,4.27,1.83,Sloop,15500,94.5,Fiberglass,7.0,1.95,360,820,75,13.43,11.48,Diesel,210,Iron keel
+Grand Soleil,46jezequel,4.34,2.45,Masthead sloop,12800,120.0,Fiberglass,7.0,1.96,230,600,75,14.98,12.9,Diesel,240,Shoal draft keel
+Grand Soleil,48oceancruiser,4.5,2.7,Sloop,15500,142.0,Fiberglass,7.0,1.98,400,900,75,14.82,12.8,Diesel,350,Shoal draft keel
+Hunter,50,4.83,2.06,B&R fractional sloop,15000,141.0,Fiberglass,7.0,2,568,757,76,15.47,13.11,Diesel,280,Shoal draft keel
+Jeanneau,sunodyssey44i,4.37,2.0,Masthead sloop,9640,89.0,Fiberglass,8.0,2.02,240,615,54,13.75,12.06,Diesel,200,Shoal draft keel
+Jeanneau,sunodyssey50ds,4.49,2.15,Masthead sloop,13900,116.0,Fiberglass,8.0,2,410,750,75,14.75,13.12,Diesel,240,Shoal draft keel
+Jeanneau,sunodyssey49i,4.49,2.15,Masthead sloop,11000,118.5,Fiberglass,8.0,1.98,240,615,75,14.98,13.96,Diesel,240,Shoal draft keel
+Malo,40classic,3.77,1.8,Sloop,10500,66.0,Fiberglass,6.0,1.9,240,470,55,12.45,10.55,Diesel,280,Fin keel
+Moody,45ds,4.27,2.03,Sloop,17637,131.0,Fiberglass,7.0,1.96,400,820,75,13.72,11.53,Diesel,230,Shoal draft keel
+Moody,45classic,4.27,1.83,Sloop,15500,94.5,Fiberglass,7.0,1.95,360,820,75,13.43,11.48,Diesel,210,Shoal draft keel
+Nauticat,441ketch,4.19,2.05,Ketch,15000,104.0,Fiberglass,7.0,1.93,800,750,110,13.52,11.41,Diesel,500,Shoal draft keel
+Nauticat,441,4.3,2.1,Ketch,15500,114.0,Fiberglass,7.0,2,900,800,110,13.59,11.28,Diesel,400,Shoal draft keel
+Nordship,380ds,3.7,1.85,Sloop,9800,90.0,Fiberglass,5.0,1.95,200,360,55,12.5,10.5,Diesel,150,Shoal draft keel
+RM Yachts,rm1200,4.35,2.15,Masthead sloop,8800,101.6,Plywood/epoxy composite,7.0,1.98,180,600,40,12.17,10.79,Diesel,120,Lifting keel
+Solaris,48,4.46,2.5,Masthead sloop,15000,133.0,Fiberglass,7.0,2.05,340,680,75,14.62,12.96,Diesel,406,Shoal draft keel
+Solaris,48one,4.46,2.5,Masthead sloop,13200,142.0,Fiberglass composite,7.0,2.05,340,680,75,14.62,12.96,Diesel,406,Shoal draft keel
+Southerly,42rst,4.49,1.79,Sloop,12000,90.0,Fiberglass,6.0,1.98,340,340,54,13.57,10.74,Diesel,190,Lifting keel
+Triplast,y40,3.66,1.83,Sloop,6600,51.7,Fiberglass,4.5,1.85,68,220,25,11.89,8.23,Diesel,70,Fin keel
+X-Yachts,xc42,3.95,2.05,Masthead sloop,10200,104.0,Fiberglass,7.0,1.94,200,300,40,12.81,11.49,Diesel,200,Shoal draft keel
+Bavaria,45cruiser,4.35,1.915,Sloop,12600,107.0,Fiberglass,7.0,2.07,210,360,55,13.98,12.74,Diesel,210,Shoal draft keel
+Beneteau,oceanis46family,4.25,2.05,Masthead sloop,11000,109.6,Fiberglass,8.0,1.98,200,570,54,14.09,13.25,Diesel,200,Shoal draft keel
+Beneteau,america50,4.92,1.98,Masthead sloop,15500,149.0,Fiberglass,7.0,1.96,400,980,75,15.09,13.26,Diesel,240,Shoal draft keel
+Catalina,445,4.22,1.905,Masthead sloop,12600,100.3,Fiberglass,7.0,1.96,208,529,54,13.72,12.5,Diesel,170,Wing keel
+Discovery,55,5.23,2.39,Sloop,28000,153.0,Fiberglass,7.0,2.05,1040,1065,160,17.45,14.63,Diesel,386,Bulb keel
+Dufour,40eperformance,3.89,2.1,Masthead sloop,7867,78.5,Fiberglass,6.0,1.95,160,360,40,12.35,11.3,Diesel,200,L-shaped keel
+Dufour,40e,3.89,1.95,Masthead sloop,7867,73.0,Fiberglass,6.0,1.95,200,360,40,12.35,11.3,Diesel,200,L-shaped keel
+Dufour,45eperformance,4.3 or 4.65,2.15,Masthead sloop,10500,98.0,Fiberglass,6.0,1.95,250,500,55,13.72,12.5,Diesel,250,Shoal draft keel
+Dufour,45eperformance,4.3 or 4.65,2.15,Masthead sloop,10500,98.0,Fiberglass,7.0,1.98,250,500,55,13.72,12.5,Diesel,250,Shoal draft keel
+Grand Soleil,46,4.34,2.5,Masthead sloop,13500,120.0,Fiberglass,7.0,1.96,280,600,75,14.63,12.17,Diesel,220,Shoal draft keel
+Hunter,39,4.04,1.75,Sloop,8490,77.0,Fiberglass,6.0,1.93,189,284,40,12.04,10.67,Diesel,128,Wing keel
+Hunter,oceanisvoyager,4.27,1.775,Masthead sloop,11340,79.0,Fiberglass,7.0,1.91,190,568,54,12.73,11.07,Diesel,170,Shoal draft keel
+Hunter,ac50,4.47,2.045,Masthead sloop,17237,151.0,Fiberglass,7.0,2.03,568,757,110,15.24,13.11,Diesel,265,Shoal draft keel
+Hunter,50centercockpit,4.75,1.98,Masthead sloop,15200,126.0,Fiberglass,7.0,1.98,568,757,76,15.32,13.11,Diesel,110,Wing keel
+Jeanneau,53,4.77,2.28,Masthead sloop,16100,135.0,Fiberglass,8.0,2.03,240,950,100,16.06,14.48,Diesel,240,Shoal draft keel
+Jeanneau,sunodyssey53,4.77,2.28,Masthead sloop,16000,136.0,Fiberglass,8.0,2.05,240,950,100,16.06,14.48,Diesel,240,Shoal draft keel
+Moody,45dse,4.27,2.03,Sloop,20000,131.0,Fiberglass,7.0,1.96,400,820,75,13.72,11.53,Diesel,230,Shoal draft keel
+Salona,44,4.19,2.39,Masthead sloop,11000,103.0,Fiberglass,7.0,1.98,220,350,55,13.5,12.35,Diesel,200,Shoal draft keel
+Solaris,one44,4.05,2.65,Masthead sloop,8800,119.0,Fiberglass composite,6.0,1.9,250,500,55,13.5,11.5,Diesel,220,Shoal draft keel
+Southerly,38,3.84,1.69,Sloop,7800,77.1,Fiberglass,5.0,1.93,180,340,40,12.09,10.67,Diesel,150,Lifting keel
+Vismara,54,4.9,2.55,Sloop,17000,136.0,Carbon fiber composite,7.0,2,450,800,100,16.4,14.0,Diesel,300,Lifting keel
+Azuree,40,3.96,2.15,Masthead sloop,8600,80.0,Fiberglass,6.0,1.95,210,320,40,11.99,11.03,Diesel,160,L-shaped keel
+Bavaria,40scruiser,3.99,2.1,Masthead sloop,8500,89.0,Fiberglass,7.0,1.97,210,360,40,12.35,10.75,Diesel,150,L-shaped keel
+Beneteau,oceanis50familyg5,4.82,1.85,Masthead sloop,13100,126.5,Fiberglass,8.0,2,235,980,75,15.42,14.75,Diesel,500,Shoal draft keel
+Beneteau,oceanis50.5,4.82,1.85,Masthead sloop,14000,129.0,Fiberglass,8.0,2.03,400,970,75,15.24,14.63,Diesel,235,Shoal draft keel
+Beneteau,oceanis50family,4.82,1.85,Masthead sloop,13100,126.5,Fiberglass,8.0,2,235,980,75,15.42,14.75,Diesel,500,Shoal draft keel
+Beneteau,first45,4.2,2.45,Masthead sloop,10500,101.0,Fiberglass,7.0,1.95,200,500,54,13.68,12.45,Diesel,200,Deep draft keel
+Catalina,375,3.66,1.75,Masthead sloop,8182,85.6,Fiberglass,6.0,1.93,136,424,40,11.73,9.88,Diesel,132,Wing keel
+Contest,45cs,4.25,2.15,Sloop,14000,104.0,Fiberglass,6.0,1.95,300,600,75,13.78,11.4,Diesel,220,Shoal draft keel
+Dehler,41,3.91,2.1,Masthead sloop,8830,84.0,Fiberglass,6.0,1.98,210,300,40,12.4,10.8,Diesel,30,L-shaped keel
+Dehler,45,4.38,2.3,Masthead sloop,11290,112.0,Fiberglass composite,7.0,2,250,450,55,13.5,11.5,Diesel,180,L-shaped keel
+Dufour,405,3.98,2.03,Masthead sloop,8500,85.0,Fiberglass,7.0,1.98,200,380,55,12.17,10.67,Diesel,160,Shoal draft keel
+Dufour,445grandlarge,4.35,2.2,Masthead sloop,10700,97.0,Fiberglass,7.0,1.95,250,530,55,13.45,12.3,Diesel,250,L-shaped keel
+Dufour,45performance,4.3 or 4.65,2.15,Masthead sloop,10500,94.0,Fiberglass,7.0,1.96,250,500,55,13.68,12.33,Diesel,250,Shoal draft keel
+Elan,impression444,4.18,1.85,Sloop,12000,99.0,Fiberglass,7.0,1.95,270,488,55,13.85,12.8,Diesel,165,Shoal draft keel
+Grand Soleil,56extreme,5.2,2.95,Sloop,21500,223.0,Fiberglass composite,8.0,2.05,370,700,110,17.25,14.1,Diesel,400,Deep draft keel
+Hanse,445,4.38,2.25,Masthead sloop,11290,103.0,Fiberglass,7.0,1.98,220,450,55,13.52,12.4,Diesel,220,L-shaped keel
+Hanse,495,5.2,2.43,Masthead sloop,17400,152.0,Fiberglass,8.0,2.05,500,800,75,15.4,13.3,Diesel,300,L-shaped keel
+Hanse,495,5.2,2.43,Masthead sloop,17400,152.0,Fiberglass,8.0,2.05,500,800,75,15.4,13.3,Diesel,300,L-shaped keel
+Jeanneau,sunodyssey409,3.99,2.1,Masthead sloop,7860,77.0,Fiberglass,7.0,1.98,200,330,40,12.34,11.18,Diesel,140,Shoal draft keel
+Jeanneau,sunodyssey439,4.24,1.925,Masthead sloop,10000,105.0,Fiberglass,7.0,1.95,200,530,54,13.34,12.0,Diesel,200,Shoal draft keel
+Rustler,44,4.3,2.285,Sloop,16000,102.0,Fiberglass,6.0,1.93,500,600,75,13.41,10.67,Diesel,255,Fin keel
+Sabre,456mkii,4.14 or 4.27,2.13,Masthead sloop,13000,110.0,Fiberglass composite,6.0,1.93,380,500,75,13.9,11.43,Diesel,227,Deep draft keel
+Sly,48c,4.55,2.65,Masthead sloop,10400,143.0,Fiberglass composite,7.0,1.95,250,600,75,14.5,12.0,Diesel,300,L-shaped keel
+Tartan,4000,3.96,2.28,Masthead sloop,9979,85.0,Fiberglass,7.0,1.93,265,360,56,12.35,10.36,Diesel,151,Fin keel
+Tofinou,12,3.72,1.825,Sloop,4500,53.4,Epoxy composite,3.0,1.7,40,100,20,12.32,8.86,Battery electric,0,Lifting keel
+Vismara,v50,4.46 or 3.8,2.75,Masthead sloop,15000,150.0,Carbon fiber composite,7.0,2,630,400,110,15.1,12.9,Diesel,250,Lifting keel
+X-Yachts,xc50,4.76,2.1,Masthead sloop,17100,150.0,Fiberglass composite,7.0,2.03,440,615,75,15.24,13.18,Diesel,300,Shoal draft keel
+Beneteau,oceanis41,4.2 or 4.8,2.05,Masthead sloop,8770,81.6,Fiberglass,7.0,1.98,200,570,40,12.38,11.25,Diesel,200,Shoal draft keel
+Beneteau,sense43,4.42,2.05,Masthead sloop,10404,98.0,Fiberglass,6.0,1.95,200,330,54,13.26,11.61,Diesel,200,Deep draft keel
+Beneteau,oceanis45,4.5,2.27,Masthead sloop,10770,105.0,Fiberglass,7.0,1.98,200,570,54,13.85,13.45,Diesel,200,Shoal draft keel
+Beneteau,sense46,4.43,2.05,Masthead sloop,12326,110.0,Fiberglass,7.0,1.95,200,640,54,14.3,12.41,Diesel,200,Deep draft keel
+Beneteau,oceanis48,4.74,2.15,Masthead sloop,12650,114.9,Fiberglass,10.0,1.98,200 or 400,690,75,14.6,13.25,Diesel,330,Shoal draft keel
+Beneteau,sense50,4.86 or 5.35,2.2,Masthead sloop,16330,133.0,Fiberglass,8.0,2.05,415,820,75,15.27,14.07,Diesel,110 or 80,L-shaped keel
+Beneteau,sense55,5.0 or 5.45,2.3,Masthead sloop,18000,192.0,Fiberglass composite,9.0,2.03,415 or 720,970,75,16.8,15.97,Diesel,110 or 80,L-shaped keel
+Beneteau,oceanis45,4.5,2.27,Masthead sloop,10770,105.0,Fiberglass,7.0,1.98,200,570,54,13.85,13.45,Diesel,200,Shoal draft keel
+Catalina,385,3.96,1.675,Masthead sloop,8600,88.2,Fiberglass,6.0,1.93,151 or 208,303,40,11.96,10.36,Diesel,114,Wing keel
+Elan,impression394,3.91,1.825,Masthead sloop,8300,75.0,Fiberglass,7.0,1.95,165,516,40,11.9,10.79,Diesel,200,Shoal draft keel
+Grand Soleil,39,3.85 or 3.95,2.15,Sloop,7500,84.0,Fiberglass,6.5,1.94,220 or 280,360,40,11.99,10.59,Diesel,180,L-shaped keel
+Hallberg-Rassy,48mkii,4.42,2.23,Masthead sloop,17900,146.0,Fiberglass,7.0,1.96,650,900,150,14.99,12.63,Diesel,225,Deep draft keel
+Hanse,545,5.2,2.8,Masthead sloop,20400,183.0,Fiberglass composite,9.0,2.15,520,810,107,16.08,14.92,Diesel,110,L-shaped keel
+Jeanneau,sunodyssey409,3.99,2.1,Masthead sloop,7860,77.0,Fiberglass,7.0,1.98,200,330,40,12.34,11.18,Diesel,140,Shoal draft keel
+Jeanneau,sunodyssey44ds,4.37,2.0,Masthead sloop,9660,83.6,Fiberglass,7.0,2,200 or 400,615,54,13.75,12.84,Diesel,180,L-shaped keel
+Jeanneau,sunodyssey469,4.49 or 4.77,2.24,Masthead sloop,10800,107.0,Fiberglass,8.0,1.95,240 or 360,530,54,14.05,13.65,Diesel,240 or 57,Shoal draft keel
+Jeanneau,sunodyssey509,4.69 or 5.18,2.28,Masthead sloop,14930,141.0,Fiberglass,9.0,2.06,240 or 480,970,75,15.38,14.98,Diesel,240 or 110,L-shaped keel
+Jeanneau,sunodyssey509,4.69 or 5.18,2.28,Masthead sloop,14930,141.0,Fiberglass,9.0,2.06,240 or 480,970,75,15.38,14.98,Diesel,240 or 110,L-shaped keel
+Passport,vista545centercockpit,4.57,1.905,Sloop or Cutter,22680,139.0,Fiberglass composite,7.0,1.98,1150,830,100,16.66,14.48,Diesel,600 or 300,Wing keel
+Sly,47,4.45,2.7,Masthead sloop,11200,140.0,Fiberglass composite,7.0,2,260,450,75,14.43,13.65,Diesel,75,L-shaped keel
+Solaris,44,4.37 or 3.97,2.6,Masthead sloop,10500,127.0,Fiberglass composite,7.0,1.98,330,500,75,13.5,12.5,Diesel,200,Lifting keel
+Southerly,420,4.36,2.41,Sloop or cutter,13750,104.7,Fiberglass composite,6.0,1.93,680,475,57,13.5,11.22,Diesel,227,Swing keel
+Tofinou,16,2.5,1.9,Sloop or cutter,1800,30.0,Epoxy composite,3.0,1.3,40,60,10,5.07,3.78,Battery electric,0,Lifting keel
+X-Yachts,xp38,3.65 or 3.95,2.05,Masthead sloop,7700,89.5,Fiberglass composite,6.0,1.92,150 or 200,265,29,11.58,10.31,Diesel,130 or 30,Deep draft keel
+X-Yachts,xp44,4.13,2.45,Masthead sloop,9970,107.0,Fiberglass composite,7.0,1.95,200 or 300,340,57,13.29,11.42,Diesel,200 or 75,Deep draft keel
+X-Yachts,xp50,4.58,2.45,Masthead sloop,13700,138.0,Fiberglass composite,8.0,1.98,350 or 500,615,76,15.24,13.28,Diesel,75,Deep draft keel
+Bavaria,41cruiser,3.96,2.05,Sloop,9200,85.0,Fiberglass,6.0,1.94,210,360,40,12.35,11.4,Diesel,150,L-shaped keel
+Bavaria,vision46,4.42,1.92,Masthead sloop,12600,109.0,Fiberglass,7.0,2.05,210,580,55,14.4,13.3,Diesel,210,Shoal draft keel
+Bavaria,45cruiser,4.35,2.1,Sloop,11020,112.0,Fiberglass,7.0,1.95,210,360,55,13.98,12.74,Diesel,210 or 55,L-shaped keel
+Beneteau,oceanis41ownersversion,4.2 or 4.8,2.05,Masthead sloop,8770,81.6,Fiberglass,6.0,1.98,200,570,40,12.38,11.25,Diesel,200,Shoal draft keel
+Beneteau,oceanis55,4.97 or 5.3,2.3,Masthead sloop,17500,167.0,Fiberglass,8.0,2.15,415 or 975,970,75,16.78,15.96,Diesel,480 or 110,L-shaped keel
+Delphia,46cc,4.48,2.05,Sloop,13000,100.0,Fiberglass composite,6.0,1.95,450,660,55,14.31,12.52,Diesel,55,Shoal draft keel
+Dufour,380,3.85,2.05,Masthead sloop,7685,70.0,Fiberglass,7.0,1.93,160 or 200,380,40,11.23,10.72,Diesel,40,L-shaped keel
+Dufour,410,4.2 or 4.5,2.1,Masthead sloop,8770,91.0,Fiberglass,7.0,1.98,200 or 250,380,40,12.35,11.15,Diesel,50 or 55,L-shaped keel
+Dufour,410grandlarge,4.2 or 4.5,2.1,Masthead sloop,8770,91.0,Fiberglass,7.0,1.98,200 or 250,380,50,12.35,11.15,Diesel,50 or 55,L-shaped keel
+Dufour,445grandlarge,4.35,2.3,Sloop,10700,108.0,Fiberglass,9.0,1.95,250,530,54,13.45,12.33,Diesel,250,L-shaped keel
+Dufour,450grandlarge,4.3 or 4.8,2.35,Masthead sloop,11160,105.0,Fiberglass,7.0,2.05,250,430 or 530,55,13.76,12.35,Diesel,75,L-shaped keel
+Dufour,500grandlarge,4.8 or 5.02,2.3,Masthead sloop,15200,147.0,Fiberglass composite,9.0,2.05,500,730,75,15.1,14.08,Diesel,110,L-shaped keel
+Dufour,500grandlarge,4.8 or 5.02,2.3,Masthead sloop,15200,147.0,Fiberglass composite,9.0,2.05,500,730,75,15.1,14.08,Diesel,110,L-shaped keel
+Elan,impression494,4.68 or 4.85,2.1,Masthead sloop,15000,144.0,Fiberglass composite,9.0,2.03,440,605,75,14.85,13.94,Diesel,295,L-shaped keel
+Grand Soleil,47,4.41,2.8,Sloop,13800,131.5,Fiberglass composite,7.0,2.06,250,600,75,14.31,12.71,Diesel,55,L-shaped keel
+Hallberg-Rassy,412,4.11,2.0,Masthead sloop,12500,92.0,Fiberglass,6.0,1.95,375,650,57,12.61,11.36,Diesel,75,Deep draft keel
+Hanse,415,4.17,1.9,Masthead sloop,9800,89.0,Fiberglass,7.0,1.98,160,475,39,12.4,11.4,Diesel,40 or 55,Shoal or deep draft keel
+Hanse,505,5.05 or 4.75,2.175,Masthead sloop,15600,141.0,Fiberglass,8.0,2.1,300 or 520,710,75,15.4,14.3,Diesel,75 or 107,L-shaped keel
+Hanse,575,5.2 or 5.2,2.85,Masthead sloop,20900,165.2,Fiberglass composite,9.0,2.15,520,810,110,17.15,15.15,Diesel,525,L-shaped keel
+Hunter,40,4.11,1.75,Sloop or cutter,8770,80.7,Fiberglass,6.0,1.98,114,284,40,12.4,10.67,Diesel,150,Shoal or deep draft keel
+Hunter,marlow-hunter40,4.11,1.75,Sloop or cutter,8770,80.7,Fiberglass,6.0,1.98,189,284,40,12.4,10.67,Diesel,150,Shoal or deep draft keel
+Jeanneau,sunodyssey41ds,4.05,2.1,Masthead sloop,8260,69.6,Fiberglass,6.0,1.98,200,330,40,12.34,11.68,Diesel,130 or 54,Shoal draft keel
+Jeanneau,sunodyssey40.9,3.99,2.025,Masthead sloop,7860,77.0,Fiberglass,7.0,1.94,136,330,40,12.38,11.15,Diesel,40 or 54 or 75,Shoal or deep draft keel
+Nauticat,42,3.95,2.05,Ketch,16000,110.0,Fiberglass composite,7.0,1.98,800,800,75,13.29,11.35,Diesel,200,L-shaped keel
+RM Yachts,rm1260,4.35,2.25,Sloop or cutter,8400,80.0,Fiberglass composite,5.0,1.95,300 or 500,640,57,12.92,12.45,Diesel,40,Swing keel
+Salona,38,3.7,2.2,Sloop or cutter,7000,70.3,Fiberglass composite,6.0,1.95,200,250,30,11.5,10.97,Diesel,120,Deep draft keel
+Salona,42,3.99 or 4.2,2.4,Sloop or cutter,9800,98.0,Fiberglass composite,7.0,1.98,230,370,55,12.85,11.65,Diesel,55,L-shaped keel
+Solaris,42,4.18,2.7,Masthead sloop,10900,108.8,Fiberglass composite,7.0,1.99,350,360,55,12.89,11.88,Diesel,75 or 55,L-shaped keel
+Van De Stadt,norman41,3.7,1.925,Masthead sloop,10500,75.9,Fiberglass composite,7.0,1.92 or 1.98,200,450,55,12.5,10.0,Diesel,160,Shoal or deep draft keel
+Wauquiez,opium39,3.8,2.175,Sloop,7500,68.0,Fiberglass composite,5.0,1.95,130,330,29,11.99,10.49,Diesel,70,L-shaped keel
+Bavaria,42vision,4.05,1.83,Masthead sloop,10600,103.0,Fiberglass,6.0,2.05,210,360,40,12.85,11.4,Diesel,210,Shoal or deep draft keel
+Beneteau,oceanis38,3.99,1.8,Masthead sloop,6850,64.0,Fiberglass,5.0,1.91,130,330,30,11.5,10.72,Diesel,130,Shoal or deep draft keel
+Boreal,44,4.5,2.2,Cutter or ketch,14000,107.0,Fiberglass composite,7.0,2.05,400,1000,75,13.68,11.24,Diesel,75,Lifting keel
+Dehler,37,3.59,2.125,Masthead sloop,6900,67.5,Fiberglass composite,5.0,1.92,160,300,28,11.3,10.2,Diesel,40,Shoal or deep draft keel
+Dehler,38competition,3.75,2.22,Sloop or cutter,7300,70.5,Fiberglass composite,5.0,1.91 or 1.98,150,320,30,11.7,10.8,Diesel,40 or 55,Shoal or deep draft keel
+Dufour,450libertyversion,4.3 or 4.8,2.35,Masthead sloop,11160,105.0,Fiberglass,7.0,2.05,250,430 or 530,55,13.76,12.35,Diesel,75,L-shaped keel
+RM Yachts,rm1260,4.35,2.25,Sloop or cutter,8400,80.0,Fiberglass composite,5.0,1.95,300 or 500,640,57,12.92,12.45,Diesel,40,Swing keel
+Southerly,535,4.83,2.615,Sloop or cutter,24700,184.0,Fiberglass composite,7.0,2.03,1000,825,110,16.18,13.74,Diesel,700,Lifting keel
+Sunbeam,42.1,4.18,2.15,Masthead sloop,12000,92.0,Fiberglass composite,7.0,1.95,250,420,55,12.79,11.2,Diesel,240 or 75,L-shaped keel
+Van De Stadt,stainlesssteelcutter,3.62,1.89,Sloop or cutter,8000,81.5,Steel,5.0,1.85,200,600,110,12.88,10.18,Diesel,150 or 75,Long keel
+Wauquiez,pilotsaloon47,4.57,1.95,Masthead sloop,15000,121.0,Fiberglass composite,7.0,1.98,600 or 700,900 or 1000,75,14.33,12.3,Diesel,300,Shoal or deep draft keel
+Contest,42cs,4.05 or 4.1,2.165,Masthead sloop,10500,93.5,Fiberglass composite,6.0,1.95,210,380,54,12.98,11.06,Diesel,120,L-shaped keel
+Dehler,varianta44,4.18,2.14,Masthead sloop,11200,103.0,Fiberglass composite,7.0,1.95 or 1.97,210,360,55,13.5,11.5,Diesel,55,Shoal or deep draft keel
+Dehler,46,4.35,2.425,Sloop or cutter,11200,108.0,Fiberglass composite,7.0,2.05,210,450,75,14.4,12.9,Diesel,55,L-shaped keel
+Dufour,382grandlarge,3.85,1.925,Masthead sloop,7500,63.0,Fiberglass,6.0,1.93,200,380,30,11.23,10.69,Diesel,40,Shoal or deep draft keel
+Dufour,412grandlarge,4.2 or 4.2,2.2,Masthead sloop,10000,92.0,Fiberglass composite,7.0,2.05,250,530,50,12.7,11.15,Diesel,50 or 55,L-shaped keel
+Dufour,460grandlarge,4.5 or 4.5,2.35,Masthead sloop,10750,107.0,Fiberglass composite,7.0,2.05,250,530,55,14.15,12.35,Diesel,75 or 110,L-shaped keel
+Dufour,500grandlarge,4.8 or 5.02,2.3,Masthead sloop,15200,147.0,Fiberglass composite,9.0,2.05,500,730,75,15.1,14.08,Diesel,110,L-shaped keel
+Elan,impression40,3.91,1.825,Masthead sloop,8500,78.5,Fiberglass composite,7.0,1.98,210,360,40,12.2,10.9,Diesel,200,Shoal or deep draft keel
+Elan,impression45,4.18,2.025,Masthead sloop,10700,106.6,Fiberglass composite,7.0,1.95 or 2,270,516,55,13.85,12.67,Diesel,243,Shoal or deep draft keel
+Elan,impression50,4.68,2.25,Masthead sloop,16800,146.6,Fiberglass composite,9.0,1.98,440,615,75,15.2,14.85,Diesel,300,L-shaped keel
+Grand Soleil,46lc,4.41,2.4,Masthead sloop,13700,114.6,Fiberglass composite,7.0,1.98,280,410,55,14.65,12.75,Diesel,250,L-shaped keel
+Hanse,385,3.88,1.745,Masthead sloop,8400,77.0,Fiberglass composite,6.0,1.95,160 or 220,300 or 520,30 or 55,11.99,10.85,Diesel,120 or 39,Shoal or deep draft keel
+Hanse,455,4.38,1.99,Masthead sloop,12400,108.0,Fiberglass composite,7.0,2.05,220,450,57,13.95,12.54,Diesel,75 or 110,Shoal or deep draft keel
+Jeanneau,sunodyssey41ds,4.05,2.1,Masthead sloop,8260,69.6,Fiberglass,6.0,1.98,200,330,40,12.34,11.68,Diesel,130 or 54,Shoal draft keel
+Jeanneau,sunodyssey469,4.49 or 4.49,2.24,Masthead sloop,12265,106.0,Fiberglass composite,8.0,1.99,240,615,54,14.05,12.54,Diesel,54,L-shaped keel
+Jeanneau,sunodyssey469,4.49 or 4.49,2.24,Masthead sloop,12265,106.0,Fiberglass composite,8.0,1.99,240,615,54,14.05,12.54,Diesel,54,L-shaped keel
+Jeanneau,sunodyssey509,4.69,2.28,Masthead sloop,14930,152.0,Fiberglass composite,9.0,2.05,240 or 360,615,75,15.38,14.98,Diesel,75,L-shaped keel
+Morris,m42x,3.94 or 4.14,2.06,Carbon fiber,7938,89.7,Fiberglass composite,6.0,1.93,200,400,54,12.8,10.9,Diesel,150,Shoal or deep draft keel
+Oyster,475,4.49,2.375,Masthead cutter,19177,136.5,Fiberglass composite,7.0,2.01,1200,931,75,14.47,12.02,Diesel,235,L-shaped keel
+Oyster,545,5.23,2.7350000000000003,Masthead cutter,32431,201.3,Fiberglass composite,7.0,2.05,1600,1135,110,16.45,13.87,Diesel,350 or 250,Deep draft keel
+Passport,545aftcockpit,4.57,2.235,Sloop or cutter,20412,157.0,Fiberglass composite,7.0,1.96,1000,1000,110,16.76,14.43,Diesel,175 or 225,Swing keel
+Salona,s41,3.85,2.35,Sloop or cutter,7800,83.0,Fiberglass composite,7.0,1.98,210,360,39,12.5,11.4,Diesel,40,Shoal or deep draft keel
+Vismara,v50ds,4.25,2.75,Sloop or cutter,13000,120.0,Fiberglass composite,7.0,2.05,400,600,75,15.35,14.5,Diesel,75,Lifting keel
+X-Yachts,xc38,3.75,1.85,Masthead sloop,7950,79.2,Fiberglass composite,6.0,1.95,200,300,29,11.58,10.63,Diesel,29,Shoal or deep draft keel
+Bavaria,cruiser46style,4.35,1.915,Masthead sloop,12390,103.0,Fiberglass composite,7.0,2.03,210,360,55,14.27,12.74,Diesel,150 or 80,Shoal or deep draft keel
+Beneteau,moorings42.3,4.13,1.925,Sloop,9300,81.5,Fiberglass,7.0,1.95 or 2.15,200,500,50,12.93,11.6,Diesel,150,Shoal or deep draft keel
+Beneteau,moorings43.5,4.43,1.7000000000000002,Masthead sloop,10500,92.9,Fiberglass composite,7.0,1.95,200 or 400,530 or 890,54,13.34,11.8,Diesel,54,Shoal or deep draft keel
+Dehler,42,3.94 or 4.25,2.09,Masthead sloop,11300,90.0,Fiberglass composite,7.0,1.95 or 2,210,360,55,12.98,11.4,Diesel,50 or 55,L-shaped keel
+Dufour,412grandlarge,4.2 or 4.2,2.2,Masthead sloop,10000,92.0,Fiberglass composite,7.0,2.05,250,530,50,12.7,11.15,Diesel,50 or 55,L-shaped keel
+Dufour,460grandlarge,4.5 or 4.5,2.35,Masthead sloop,10750,107.0,Fiberglass composite,7.0,2.05,250,530,55,14.15,12.35,Diesel,75 or 110,L-shaped keel
+Dufour,512grandlarge,5 or 5.03,2.3,Masthead sloop,16130,153.0,Fiberglass composite,9.0,2.05,440,720,110,15.55,14.76,Diesel,110,L-shaped keel
+Dufour,56exclusive,5.05 or 5.2,2.5,Masthead cutter,21000,205.0,Fiberglass composite,9.0,2.05,680,730,110,17.15,16.1,Diesel,150,L-shaped keel
+Grand Soleil,43maletto-gs43,4.13,2.3,Masthead sloop,9600,99.8,Fiberglass composite,7.0,2.05,230,320,55,13.25,11.55,Diesel,150 or 75,L-shaped keel
+Jeanneau,sunodyssey389,3.76 or 3.88,1.78,Masthead sloop,7000,69.0,Fiberglass composite,5.0,1.95,130,200 or 330,29,11.34,10.4,Diesel,130 or 40 or 29 or 21,Shoal or deep draft keel
+Jeanneau,sunodyssey419,4.2 or 4.19,1.85,Masthead sloop,9280,100.4,Fiberglass composite,7.0,2.05,200 or 240,330 or 530,45,12.76,11.38,Diesel,40 or 45 or 57,L-shaped keel
+Jeanneau,sunodyssey449,4.24 or 4.49,1.9,Masthead sloop,10600,101.7,Fiberglass composite,8.0,2.05,200,330 or 640 or 490,57,13.76,12.39,Diesel,57 or 80,L-shaped keel
+Jeanneau,sunodyssey479,4.49 or 4.49,1.92,Masthead sloop,11800,122.3,Fiberglass composite,10.0,2.05,240 or 480,618 or 720 or 760 or 1000,80,14.43,13.75,Diesel,63 or 80,L-shaped keel
+Jeanneau,sunodyssey519,4.69 or 4.75,2.04,Masthead sloop,14930,152.0,Fiberglass composite,9.0,2.05,240 or 360,615,80,16.06,14.98,Diesel,80,L-shaped keel
+Jeanneau,sunodyssey479,4.49 or 4.49,1.92,Masthead sloop,11800,122.3,Fiberglass composite,10.0,2.05,240 or 480,618 or 720 or 760 or 1000,80,14.43,13.75,Diesel,63 or 80,L-shaped keel
+Jeanneau,sunodyssey519,4.69 or 4.75,2.04,Masthead sloop,14930,152.0,Fiberglass composite,9.0,2.05,240 or 360,615,80,16.06,14.98,Diesel,80,L-shaped keel
+Maxi,1200,4.25,2.3,Masthead sloop,13000,106.5,Fiberglass composite,7.0,1.98,400 or 600,600,75,12.98,11.02,Diesel,75 or 110,Deep draft keel
+Moody,54,5.2,2.6,Masthead sloop,23000,163.0,Fiberglass composite,7.0,1.96 or 2.05,1000 or 1400,820,110,16.3,14.42,Diesel,110,L-shaped keel
+Nautor,swanclubswan50,4.57,2.8,Masthead sloop,16800,141.0,Fiberglass composite,7.0,2,320,400,75,15.24,13.7,Diesel,75,L-shaped keel
+Nautor,swan54,4.88 or 4.9,2.55,Masthead cutter,23500,142.0,Fiberglass composite,7.0,2,430 or 680,780,110,16.46,14.27,Diesel,110,L-shaped keel
+Vismara,v50mills,4.25,2.55,Sloop or cutter,15000,120.0,Fiberglass composite,7.0,2,700 or 900,600,81,15.6,14.6,Diesel,80,Lifting keel
+Wauquiez,pilotsaloon48,4.47,1.825,Masthead sloop,16000,128.2,Fiberglass composite,7.0,1.98,450,900,75,14.96,13.45,Diesel,110,Shoal or deep draft keel
+Azuree,46,4.41,2.2,Masthead sloop,11900,112.0,Fiberglass composite,7.0,2.05,230 or 320,500 or 640,75,14.62,13.65,Diesel,75,L-shaped keel
+Bavaria,cruiser46s,4.35,2.2,Masthead sloop,12600,117.0,Fiberglass composite,7.0,2.05,210,360,55,14.27,12.74,Diesel,50 or 75,L-shaped keel
+Bavaria,51cruiserstyle,4.7,2.25,Masthead sloop,16000,138.7,Fiberglass composite,8.0,2.15 or 2.25,300,650,75,15.59,14.02,Diesel,75,L-shaped keel
+Beneteau,oceanis38.1,3.99,1.8,Masthead sloop,6850,70.0,Fiberglass composite,7.0,1.91 or 1.98,130 or 200,330 or 468,30,11.5,10.72,Diesel or gasoline,65 or 130,Shoal or deep draft keel
+Beneteau,41.1,4.2 or 4.23,2.16,Masthead sloop,7860,78.0,Fiberglass composite,7.0,1.95 or 2.05,195,570 or 190 or 320,40,12.43,11.38,Diesel,130 or 40 or 57,Shoal or deep draft keel
+Beneteau,oceanis41.1,4.2 or 4.23,2.16,Masthead sloop,8500,82.0,Fiberglass composite,7.0,1.95 or 2.05,200 or 330,570 or 190,40,12.43,11.38,Diesel or gasoline,130 or 40 or 57,Shoal or deep draft keel
+Beneteau,oceanis48,4.74 or 4.49,1.94,Masthead sloop,12600,100.5,Fiberglass composite,8.0,2.05 or 2.15,400,694 or 788 or 1000,75,14.6,13.45,Diesel or gasoline,170,Shoal or deep draft keel
+Boreal,47,4.56,2.35,Cutter or ketch,15300,118.0,Fiberglass composite,7.0,1.93 or 2.05,700,800,75,14.55,12.78,Diesel,180,Lifting keel
+B-Yachts,brentab42,3.94,2.65,Masthead sloop,6500,103.0,Fiberglass composite,7.0,2.03,150,250,40,12.9,11.29,Diesel,80 or 30,L-shaped keel
+Catalina,425,4.27,1.75,Masthead sloop,11113,97.5,Fiberglass composite,7.0,1.93 or 2.03,180,473,55,12.88,10.77,Diesel,135 or 56,Wing keel
+Dufour,460performance,4.5 or 4.75,2.5,Masthead sloop,12600,121.0,Fiberglass composite,7.0,2.05,250,530,75 or 100,14.15,12.35,Diesel,75 or 100,L-shaped keel
+Elan,e4,3.91,2.1,Masthead sloop,8500,99.0,Fiberglass composite,7.0,2 or 2.15,200,516,55,12.45,10.75,Diesel,120,L-shaped keel
+Elan,impression50,4.68 or 4.68,2.135,Masthead sloop,15500,132.0,Fiberglass composite,8.0,2.05,280,605,75,14.96,13.85,Diesel,230,L-shaped keel
+Grand Soleil,43maletto,4.13,2.3,Masthead sloop,9600,99.8,Fiberglass composite,7.0,2.05,230,320,55,13.25,11.55,Diesel,150 or 75,L-shaped keel
+Hallberg-Rassy,44,4.32,2.18,Masthead cutter,14000,98.0,Fiberglass composite,6.0,2.03,460,900,75,13.57,11.91,Diesel,300,T-shaped keel
+Hanse,588,5.2 or 5.2,2.85,Masthead sloop,23500,190.0,Fiberglass composite,8.0,2.15 or 2.45,520,810,150,17.2,16.08,Diesel,400,L-shaped keel
+Jeanneau,sunodyssey51,4.77 or 4.69,2.04,Masthead sloop,15700,124.0,Fiberglass composite,9.0,2.05,240 or 360,640,80,15.38,14.02,Diesel,80,L-shaped keel
+Najad,505,4.78,2.13,Masthead cutter,17000,126.0,Fiberglass composite,7.0,2.03,600,800,75,15.34,13.32,Diesel,150,L-shaped keel
+Nautor,swan50,4.58 or 4.58,2.7,Masthead sloop,20800,157.0,Fiberglass composite,8.0,2.05,500,700 or 1000,75,15.24,13.5,Diesel,180,Lifting keel
+Solaris,50,4.85,3.05,Masthead sloop,16000,148.0,Fiberglass composite,7.0,1.95 or 2.05,400,680,75,15.2,13.9,Diesel,180,T-shaped keel
+Bavaria,c45holiday,4.49 or 4.43,1.99,Masthead sloop,13300,108.0,Fiberglass composite,7.0,2.05,210,650,57,13.98,12.99,Diesel,210,L-shaped keel
+Beneteau,oceanis51.1,4.8 or 5.18,2.125,Masthead sloop,14800,132.0,Fiberglass composite,9.0,2.05,400,600,110,15.94,14.98,Diesel,235 or 80,Shoal or deep draft keel
+Beneteau,sense51,5.0,2.7,Masthead sloop,15500,140.5,Fiberglass composite,8.0,2.05,415,640,80,15.97,13.67,Diesel,200,L-shaped keel
+Beneteau,oceanis55.1,5.3 or 4.98,2.225,Masthead sloop,17500,183.0,Fiberglass composite,9.0,2.15 or 2.35,415,970,80,16.78,15.3,Diesel,160 or 80,Shoal or deep draft keel
+Dufour,520grandlarge,5.02,2.6,Masthead sloop,15500,157.0,Fiberglass composite,9.0,2.05,450,720,110 or 150,15.2,14.1,Diesel,250,L-shaped keel
+Dufour,520gl,5.02,2.6,Masthead sloop,15500,157.0,Fiberglass composite,9.0,2.05,450,720,110 or 150,15.2,14.1,Diesel,250,L-shaped keel
+Dufour,520glownerversion,5.02,2.6,Masthead sloop,15500,157.0,Fiberglass composite,5.0,2.05,450,720,110 or 150,15.2,14.1,Diesel,250,L-shaped keel
+Elan,gt5,4.49,2.125,Masthead sloop,10800,107.5,Fiberglass composite,7.0,1.94 or 2 or 2.2,280 or 400,401,57,13.2,11.9,Diesel,200,Lifting keel
+Hanse,418,4.17,1.91,Masthead sloop,10600,91.0,Fiberglass composite,7.0,2.01,160,475 or 600,40,12.4,11.99,Diesel,160,L-shaped keel
+Hanse,548,5.05,2.25,Masthead sloop,21600,186.0,Fiberglass composite,9.0,2.15,520,770,110,16.22,15.18,Diesel,110,Shoal or deep draft keel
+Jeanneau,sunodyssey440,4.29,1.9,Masthead sloop,9640,96.0,Fiberglass composite,7.0,2 or 1.95,200,330 or 640,57,13.39,12.64,Diesel,200 or 45,L-shaped keel
+Salona,s380,3.75,2.075,Masthead sloop,7000,75.0,Fiberglass composite,7.0,1.95,120,220 or 265 or 320,29,11.39,10.7,Diesel,85,L-shaped keel
+Wauquiez,pilotsaloon42,4.28,1.9,Masthead sloop,11000,95.8,Fiberglass composite,7.0,1.98,350,540,75,12.99,11.14,Diesel,60 or 80,Shoal or deep draft keel
+X-Yachts,x4.3,4.17,2.5,Masthead sloop,9000,97.5,Fiberglass composite,6.0,2.05,200,340 or 460,39,12.67,11.14,Diesel,40 or 57,L-shaped keel
+Beneteau,oceanis46.1,4.5,2.05,Masthead sloop,10890,103.0,Fiberglass composite,8.0,2.05,200,370 or 640,57,14.6,13.53,Diesel,210 or 57,Shoal or deep draft keel
+Dufour,390grandlarge,3.98,1.925,Masthead sloop,7800,77.0,Fiberglass composite,7.0,1.95 or 1.9,200,380 or 530 or 720,40,11.94,10.72,Diesel,160,L-shaped keel
+Dufour,430grandlarge,4.3 or 4.3,2.1,Masthead sloop,10700,108.0,Fiberglass composite,8.0,1.98 or 2.05 or 2.2,250,570 or 720 or 460,50,13.24,12.22,Diesel,200,L-shaped keel
+Dufour,430gl,4.3 or 4.3,2.1,Masthead sloop,10700,108.0,Fiberglass composite,8.0,1.98 or 2.05 or 2.2,250,570 or 720 or 460,50,13.24,12.22,Diesel,200,L-shaped keel
+Hanse,388,3.9 or 3.99,1.79,Masthead sloop,9000,85.0,Fiberglass composite,7.0,1.95 or 2.15,160,370 or 520,29,11.99,10.71,Diesel,160 or 53,L-shaped keel
+Hanse,508,4.75,2.55,Masthead sloop,15000,143.0,Fiberglass composite,8.0,2.1 or 2.6,520,770,110,15.55,14.03,Diesel,110 or 150,L-shaped keel
+Jeanneau,sunodyssey410,3.99,1.87,Masthead sloop,8260,82.0,Fiberglass composite,7.0,2,200,330 or 530,40,12.35,11.59,Diesel,165,L-shaped keel
+Jeanneau,sunodyssey490,4.49 or 4.49,1.92,Masthead sloop,12800,116.0,Fiberglass composite,9.0,2 or 2.2,240 or 480,640,80,14.42,13.71,Diesel,240,L-shaped keel or centerboard
+RM Yachts,rm12.70,4.35,1.95,Two masted cutter or schooner,9500,110.0,Wood-epoxy or fiberglass,7.0,2,150,500,75,12.7,10.53,Diesel,60,Lifting keel
+RM Yachts,rm1270,4.35,1.95,Two masted cutter or schooner,9500,110.0,Wood-epoxy or fiberglass,7.0,2,150,500,75,12.7,10.53,Diesel,60,Lifting keel
+Southerly,48,4.57,1.485,Lugger or cutter,19000,133.0,Fiberglass composite,7.0,1.98 or 2.03 or 2.1 or 2.15,900,750,80,15.23,13.16,Diesel,350 or 175,Swing keel
+X-Yachts,x4,3.99,2.2750000000000004,Masthead sloop,9200,90.0,Fiberglass composite,6.0,2.05,200,340 or 460,40,12.5,11.18,Diesel,40,L-shaped keel
+X-Yachts,x4.6,4.41,2.15,Masthead sloop,12000,125.0,Fiberglass composite,7.0,2.03 or 2.17 or 2.38,340 or 460,430 or 500 or 680,57,14.31,13.24,Diesel,57 or 80,L-shaped keel
